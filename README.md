@@ -85,6 +85,29 @@ L’enregistrement est conçu pour limiter autant que possible la perte des dern
 
 D’autres appareils Shelly utilisant une interface de mesure compatible peuvent fonctionner, mais doivent être considérés comme non testés tant que leur compatibilité n’a pas été confirmée.
 
+## Téléchargement
+
+### GitHub
+
+Téléchargement direct de la version Windows x64 :
+
+- [OtaWatt 0.5.0 - EXE](https://github.com/OtaFox/OtaWatt/releases/download/v0.5.0/OtaWatt_0.5.0.exe)
+- [OtaWatt 0.5.0 - ZIP portable](https://github.com/OtaFox/OtaWatt/releases/download/v0.5.0/OtaWatt_0.5.0_Windows_x64.zip)
+
+Page de la dernière version publiée :
+
+https://github.com/OtaFox/OtaWatt/releases/latest
+
+### Vérification SHA-256
+
+`OtaWatt_0.5.0.exe`
+
+`7da8912363872fb39982bb3c10136f3284d58ddcf0d8a26bf0ccdab8bff217b7`
+
+`OtaWatt_0.5.0_Windows_x64.zip`
+
+`905d8e80cebe39736042f72570a504537c0a91682cb2dfa0e4dbabe3c0d50d14`
+
 ## Microsoft Store
 
 OtaWatt est disponible gratuitement sur le Microsoft Store :
