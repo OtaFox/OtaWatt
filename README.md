@@ -115,3 +115,30 @@ go.mod
 OtaWatt.ico
 Audiowide-Regular.ttf
 LICENSE-Audiowide.txt
+
+```
+
+## Vie privée
+
+OtaWatt ne contient pas de système de publicité, de suivi utilisateur ou de télémétrie propre au logiciel.
+
+Les informations nécessaires au fonctionnement sont traitées localement.
+
+## Licence
+
+Le code source d’OtaWatt est distribué sous licence **MIT**.
+
+La police **Audiowide** intégrée au projet est distribuée séparément sous licence **SIL Open Font License 1.1**.
+
+Consultez :
+
+- `LICENSE`
+- `LICENSE-Audiowide.txt`
+
+## Version actuelle
+
+**OtaWatt 0.5.0**
+
+## Auteur
+
+**Créé par OtaFox**
