@@ -4,6 +4,20 @@
 
 Il a été pensé principalement pour les Gamer, l’overclocking, les benchmarks et le diagnostic de stabilité d’un PC, avec l’objectif de fournir des mesures électriques utiles tout en consommant très peu de ressources système.
 
+## Captures d’écran
+
+### Interface principale
+
+![OtaWatt - Interface principale](docs/screenshots/otawatt%20image.PNG)
+
+### Paramètres
+
+![OtaWatt - Paramètres](docs/screenshots/otawatt%20image2.PNG)
+
+### Mode compact
+
+![OtaWatt - Mode compact](docs/screenshots/otawatt%20image3.PNG)
+
 ## Fonctionnalités
 
 - Surveillance de la consommation électrique en temps réel
